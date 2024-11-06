@@ -1,1 +1,1 @@
-# POS Toko
+# POS Toko for Android use Kotlin
